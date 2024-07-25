@@ -29,6 +29,34 @@ body {
    text-align: center;
    padding: 6px;
  }
+ #foto2{
+   text-align: center;
+   padding: auto;
+  
+   
+          
+   
+}
+#img2{
+   background: rgb(209, 179, 179);
+   border-radius: 200px;
+   border-style:double; 
+   height: 350px;
+   width: 350px;
+   
+}
+#msg2{
+   width: auto;
+   height: 120px;
+   margin: auto;
+   background-color: rgb(255, 110, 110);
+   border-style:groove;
+  font-style:oblique;
+   
+
+  
+
+}
  footer { 
     color: white;
     text-align: center;

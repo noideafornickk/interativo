@@ -1,0 +1,82 @@
+#coquette {
+    text-align: center;
+    margin: auto;
+    background-image: url('coquette.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    position: relative;
+}
+
+#texto {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+}
+
+#tulipa {
+    display: block;
+    margin: 0 auto;
+    height: 600px;
+    width: 335px;
+    border-radius: 10px;
+}
+
+#texto-sobre-tulipa {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: right;
+    box-sizing: border-box; /* Inclui padding e border no total width e height */
+    top: -20px;
+}
+
+#conteudo-adicional {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px; /* Espaçamento entre o texto e o conteúdo adicional */
+}
+
+#dance {
+
+    position: absolute;
+    height: 100px;
+    margin-top: 235px; /* Espaçamento acima e abaixo do GIF */
+}
+
+#gato {
+    height: 120px;
+    width: 120px;
+    margin-right:  -200px;
+}
+#crl{
+    margin-left: 200px;
+    margin-top: -45px;
+}
+
+#text {
+    margin-top: 25px; /* Espaçamento entre o input e o GIF acima */
+    border-radius: 8px;
+    text-align: center;
+    border-color: blue;
+    
+}
+#verificar{
+    border-radius: 7px;
+    border-color: brown;
+    margin: 3px;
+}
+#resposta{
+    z-index: 4;
+    position: absolute;
+    margin-top: 190px;
+    text-align: center;
+    
+}

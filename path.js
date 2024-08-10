@@ -26,8 +26,8 @@ if (hora >= 0 && hora < 6){
     img2.src='estudo.png'
     img.src = 'tarde.jpg'
     msg.innerHTML = `Agora são ${hora} horas. <br> Boa Tarde!`
-    msg2.innerHTML=`Salve Djow, só nos estudis? haha, e as namoradinha? 
-    <br>*Saudade do tempo que não vivemos*</br>`
+    msg2.innerHTML=`Salve meu rei, como estás? ... que mais que é pra por aqui? to sem ideia, se esse código der errado eu taco fogo nesse PC réi. 
+    <br>*Maravilha, deu tudo certo haha, tudo certo pra dar errado</br>`
     t2.innerHTML=`Ok Google, como centralizar uma <br>D</br>I</br>V`
 
 }   
